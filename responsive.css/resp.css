@@ -1,0 +1,24 @@
+.image{
+    margin-left: 400px;
+    padding-bottom: 22px;
+}
+.head{
+    text-align: center;
+    padding-top: 22px;
+    font-size: 60px;
+    color: darkmagenta;
+}
+
+
+@media only screen and  (max-width: 455px){
+    .image{
+        margin-left: 0%;
+        margin-right:56%;
+        padding-bottom: 12%;
+        padding-top: 2%;
+    }
+    .head{
+        padding-left:300px;
+    }
+    
+}
